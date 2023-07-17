@@ -1,0 +1,79 @@
+{
+    "07006": {
+        "idCita": "07006",
+        "motivoConsulta": "VERTIGO",
+        "nombrePaciente": "ANDRES",
+        "fechaCita": "20/07/2023",
+        "horaCita": "16:45"
+    },
+    "00324": {
+        "idCita": "00324",
+        "motivoConsulta": "VOMITO INTENSO",
+        "nombrePaciente": "PEDRO",
+        "fechaCita": "20/08/2023",
+        "horaCita": "08:00"
+    },
+    "03149": {
+        "idCita": "03149",
+        "motivoConsulta": "DOLOR DE PECHO",
+        "nombrePaciente": "ANDRES",
+        "fechaCita": "25/09/2023",
+        "horaCita": "13:30"
+    },
+    "09052": {
+        "idCita": "09052",
+        "motivoConsulta": "FUERTE MIGRA\u00d1A",
+        "nombrePaciente": "DIEGO",
+        "fechaCita": "17/07/2023",
+        "horaCita": "16:45"
+    },
+    "03118": {
+        "idCita": "03118",
+        "motivoConsulta": "APENDICITIS",
+        "nombrePaciente": "ALBERTO",
+        "fechaCita": "10/09/2023",
+        "horaCita": "06:00"
+    },
+    "08631": {
+        "idCita": "08631",
+        "motivoConsulta": "TENSION ALTA",
+        "nombrePaciente": "MARTHA",
+        "fechaCita": "20/07/2023",
+        "horaCita": "16:30"
+    },
+    "09807": {
+        "idCita": "09807",
+        "motivoConsulta": "INFLAMACION ABDOMINAL",
+        "nombrePaciente": "JUAN",
+        "fechaCita": "25/02/2023",
+        "horaCita": "10:15"
+    },
+    "05555": {
+        "idCita": "05555",
+        "motivoConsulta": "FATIGA Y DOLOR EN EL CUERPO",
+        "nombrePaciente": "ANDREA",
+        "fechaCita": "20/08/2023",
+        "horaCita": "16:40"
+    },
+    "04770": {
+        "idCita": "04770",
+        "motivoConsulta": "SARPULLIDO EN EL CUERPO",
+        "nombrePaciente": "ADRIANA",
+        "fechaCita": "27/11/2023",
+        "horaCita": "15:30"
+    },
+    "05967": {
+        "idCita": "05967",
+        "motivoConsulta": "CITA ODONTOLOGICA",
+        "nombrePaciente": "SULLY",
+        "fechaCita": "11/10/2023",
+        "horaCita": "13:15"
+    },
+    "04035": {
+        "idCita": "04035",
+        "motivoConsulta": "DENGUE HEMORRAGICO",
+        "nombrePaciente": "ERNESTO",
+        "fechaCita": "10/10/2023",
+        "horaCita": "10:30"
+    }
+}
